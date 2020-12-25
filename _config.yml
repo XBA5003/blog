@@ -1,0 +1,39 @@
+title: .:Blog SK Laksian Banggi:.
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://xba5003.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: SK Laksian Banggi # add your name
+author-img: sklb.jpg # add your photo
+about-author: SK Laksian Banggi tidak bertanggungjawab terhadap komen yang diutarakan melalui laman ini. # add description
+social-twitter: sklaksianbanggi # add your Twitter handle
+social-facebook: sklaksianbanggi # add your Facebook handle
+social-instagram: sklaksianbanggi # add your Instagram handle
+social-globe: http://xba5003.github.io/ # add your globe handle
+social-email: xba5003@moe.edu.my # add your Email address
+
+# Disqus
+discus-identifier: sklbedu # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+#kramdown:
+#  parse_block_html: true
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

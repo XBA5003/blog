@@ -1,0 +1,13 @@
+---
+layout: post
+title: Kejohanan Merentas Desa 2019
+date: 2019-11-13 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: aktiviti.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Aktiviti]
+---
+
+Akitiviti Merentas Desa Edisi Ke-12 2019
+
+![Akitiviti Merentas Desa Edisi Ke-12 2019]({{site.baseurl}}/assets/img/merentas.png)
