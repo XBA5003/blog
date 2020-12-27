@@ -70,10 +70,10 @@ tags: [Jadual Waktu] # add tag
 ### Jadual Waktu Induk    
 
 #### Jadual Waktu Induk Kelas
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Induk Kelas")
+[![]({{site.baseurl}}/assets/img/jk/01.1-INDUK.jpg)]({{site.baseurl}}/assets/img/jk/01.1-INDUK.jpg "Jadual Waktu Induk Kelas")
 
 #### Jadual Waktu Induk Guru
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Induk Guru")
+[![]({{site.baseurl}}/assets/img/jk/01.2-INDUK.jpg)]({{site.baseurl}}/assets/img/jk/01.2-INDUK.jpg "Jadual Waktu Induk Guru")
                 
 ----                
                 
@@ -81,22 +81,22 @@ tags: [Jadual Waktu] # add tag
 ### Jadual Waktu Kelas         
 
 #### Jadual Waktu Kelas Tahun 1
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Kelas Tahun 1")
+[![]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_1.jpg)]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_1.jpg "Jadual Waktu Kelas Tahun 1")
 
 #### Jadual Waktu Kelas Tahun 2
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Kelas Tahun 2")
+[![]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_2.jpg)]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_2.jpg "Jadual Waktu Kelas Tahun 2")
 
 #### Jadual Waktu Kelas Tahun 3
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Kelas Tahun 3")
+[![]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_3.jpg)]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_3.jpg "Jadual Waktu Kelas Tahun 3")
 
 #### Jadual Waktu Kelas Tahun 4
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Kelas Tahun 4")
+[![]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_4.jpg)]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_4.jpg "Jadual Waktu Kelas Tahun 4")
 
 #### Jadual Waktu Kelas Tahun 5
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Kelas Tahun 5")
+[![]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_5.jpg)]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_5.jpg "Jadual Waktu Kelas Tahun 5")
 
 #### Jadual Waktu Kelas Tahun 6
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Kelas Tahun 6")
+[![]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_6.jpg)]({{site.baseurl}}/assets/img/jk/02-KELAS_Page_6.jpg "Jadual Waktu Kelas Tahun 6")
 
                 
 ----                
@@ -105,66 +105,66 @@ tags: [Jadual Waktu] # add tag
 ### Jadual Waktu Persendirian/Guru
 
 #### Jadual Waktu Persendirian AM
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian AM")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_01.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_01.jpg "Jadual Waktu Persendirian AM")
 
 #### Jadual Waktu Persendirian MA
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian MA")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_02.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_02.jpg "Jadual Waktu Persendirian MA")
 
 #### Jadual Waktu Persendirian MM
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian MM")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_03.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_03.jpg "Jadual Waktu Persendirian MM")
 
 #### Jadual Waktu Persendirian MZ
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian MZ")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_04.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_04.jpg "Jadual Waktu Persendirian MZ")
 
 #### Jadual Waktu Persendirian AA
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian AA")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_05.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_05.jpg "Jadual Waktu Persendirian AA")
 
 #### Jadual Waktu Persendirian EE
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian EE")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_06.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_06.jpg "Jadual Waktu Persendirian EE")
 
 #### Jadual Waktu Persendirian HS
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian HS")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_07.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_07.jpg "Jadual Waktu Persendirian HS")
 
 #### Jadual Waktu Persendirian HA
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian HA")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_08.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_08.jpg "Jadual Waktu Persendirian HA")
 
 #### Jadual Waktu Persendirian SH
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian SH")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_09.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_09.jpg "Jadual Waktu Persendirian SH")
 
 #### Jadual Waktu Persendirian RL
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian RL")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_10.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_10.jpg "Jadual Waktu Persendirian RL")
 
 #### Jadual Waktu Persendirian DF
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian DF")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_11.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_11.jpg "Jadual Waktu Persendirian DF")
 
 #### Jadual Waktu Persendirian RS
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Persendirian RS")
+[![]({{site.baseurl}}/assets/img/jk/02-GURU_Page_12.jpg)]({{site.baseurl}}/assets/img/jk/02-GURU_Page_12.jpg "Jadual Waktu Persendirian RS")
                 
 ----                 
 
 ### Jadual Waktu Relief
 
 #### Jadual Waktu Relief Isnin
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Relief Isnin")
+[![]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_1.jpg)]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_1.jpg "Jadual Waktu Relief Isnin")
 
 #### Jadual Waktu Relief Selasa
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Relief Selasa")
+[![]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_2.jpg)]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_2.jpg "Jadual Waktu Relief Selasa")
 
 #### Jadual Waktu Relief Rabu
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Waktu Relief Rabu")
+[![]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_3.jpg)]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_3.jpg "Jadual Waktu Waktu Relief Rabu")
 
 #### Jadual Waktu Relief Khamis
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Relief Khamis")
+[![]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_4.jpg)]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_4.jpg "Jadual Waktu Relief Khamis")
 
 #### Jadual Waktu Relief Jumaat
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu Relief Jumaat")
+[![]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_5.jpg)]({{site.baseurl}}/assets/img/jk/05-RELIEF_Page_5.jpg "Jadual Waktu Relief Jumaat")
                 
 ----              
 
 ### Jadual Waktu Bilik-Bilik Khas
 
 #### Jadual Waktu PSS/Nilam
-[![]({{site.baseurl}}/assets/img/merentas.jpg)]({{site.baseurl}}/assets/img/merentas.jpg "Jadual Waktu PSS/Nilam")
+[![]({{site.baseurl}}/assets/img/jk/04-BILIK.jpg)]({{site.baseurl}}/assets/img/jk/04-BILIK.jpg "Jadual Waktu PSS/Nilam")
                 
 ----     
 
