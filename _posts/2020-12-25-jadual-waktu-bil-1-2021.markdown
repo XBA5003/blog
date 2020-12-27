@@ -16,7 +16,7 @@ tags: [Jadual Waktu] # add tag
 ----            
 
 ----   
-## Jadual Waktu Bil 01/2021 *(bentuk:*jpg)*
+## Jadual Waktu Bil 01/2021 *(bentuk:jpg)*
 
 <details>
     <summary><a href="#jadual-waktu-induk">Jadual Waktu Induk</a></summary>
