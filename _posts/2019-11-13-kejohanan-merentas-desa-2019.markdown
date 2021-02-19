@@ -10,4 +10,4 @@ tags: [Aktiviti]
 
 Akitiviti Merentas Desa Edisi Ke-12 2019
 
-![Akitiviti Merentas Desa Edisi Ke-12 2019]({{site.baseurl}}/assets/img/merentas.png)
+![Akitiviti Merentas Desa Edisi Ke-12 2019]({{site.baseurl}}/assets/img/merentas.jpg)
